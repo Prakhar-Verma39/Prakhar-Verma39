@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Prakhar Verma.
-- 👀 I’m interested in reading books of different genres, sketching, geo-politics and learning new things.
+- 🧑‍💻 I like coding, logic building, & computer science. 
+- 👀 I’m also interested in reading books of different genres, sketching, geo-politics and learning new things.
 - 🌱 I’m currently pursuing MCA from University of Allahabad.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me at prakharverma3997@gmail.com
