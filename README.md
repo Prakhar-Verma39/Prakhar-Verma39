@@ -2,7 +2,7 @@
 
 I'm a tech enthusiast with a passion for coding, logic building, and computer science. Besides programming, I find joy in exploring books of different genres, sketching, and delving into geopolitics to broaden my horizons.
 
-🌱 Currently, I'm pursuing MCA from the University of Allahabad, where I'm continuously learning and honing my skills.
+🌱 Recently, I have completed MCA degree from the University of Allahabad, where I have learnt many new skills.
 
 💞️ I’m excited to collaborate on open-source projects and contribute to the vibrant developer community.
 
