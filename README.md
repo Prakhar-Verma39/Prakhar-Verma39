@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/bca-note.appspot.com/o/aa.png?alt=media&token=e54ed75c-bd24-4f37-bf88-4ca3049072e2&_gl=1*1rq9i5j*_ga*MzY4NzQ4NTE4LjE2NzkyODU2NDI.*_ga_CW55HF8NVT*MTY5NjMxMDQxNS4zLjEuMTY5NjMxMDQ4NC42MC4wLjA." height="275px" width="275px"/>
+<img src="https://github.com/Prakhar-Verma39/Prakhar-Verma39/assets/103757447/d57324aa-c88d-4966-a9e9-44066f0e1c5c" height="275px" width="275px"/>
 </div>
 
 # 👋 Hi, I’m Prakhar Verma.
