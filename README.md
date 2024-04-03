@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://github.com/Prakhar-Verma39/Prakhar-Verma39/assets/103757447/d57324aa-c88d-4966-a9e9-44066f0e1c5c" height="300px" width="300px"/>
 <div align="right">
+  <i style="font-size: 12px;">
   <a href="https://www.freepik.com/free-vector/flat-creativity-concept-illustration_14620625.htm">Image by pikisuperstar</a> on Freepik
+  </i>
 </div>
 </div>
 
